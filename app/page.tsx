@@ -10,6 +10,9 @@ export default function Home() {
         <h1 className="w-full text-center text-4xl font-bold tracking-tight text-red-600">
           This is a trial
         </h1>
+        <h3 className="w-full text-center text-xl font-semibold tracking-tight text-black dark:text-zinc-50">
+          for maintaining streak
+        </h3>
         <Image
           className="dark:invert"
           src="/next.svg"
