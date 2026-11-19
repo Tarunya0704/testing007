@@ -10,7 +10,7 @@ export default function Home() {
         <h1 className="w-full text-center text-4xl font-bold tracking-tight text-red-600">
           This is a trial
         </h1>
-        <h3 className="w-full text-center text-xl font-semibold tracking-tight text-black dark:text-zinc-50">
+        <h3 className="self-center rounded-md bg-blue-600 px-4 py-2 text-center text-xl font-semibold tracking-tight text-red-500">
           for maintaining streak
         </h3>
         <Image
